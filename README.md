@@ -1,4 +1,5 @@
-#CommonGood
+<h1>CommonGood</h1>
+
 <i>A platform for small donations</i>
 
 CommonGood is a platform to help people in your community with small donations.
