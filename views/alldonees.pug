@@ -1,0 +1,7 @@
+extends layout
+
+block content
+    h1 Small wishes, big chances 
+    p Help our donees make a wish come true!
+    each donee in donees
+        p #{ donee.doneeName }

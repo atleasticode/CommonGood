@@ -1,0 +1,13 @@
+extends layout
+
+block content
+  h1 Make a wish
+  p We currently have #{donees.length} donees in our database.
+  p Want to make your own wish come true? 
+  h2 Sign up as a donee 
+  a(href='/donees') here
+
+  br
+  h2 Lend somebody else a helping hand?
+  p Find all our donees and their wishes 
+  a(href='/donees/all') here
